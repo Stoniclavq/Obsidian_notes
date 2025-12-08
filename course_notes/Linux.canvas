@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"46f50132e98db1d0","type":"text","text":"[[Linux]]\nLinux","x":-160,"y":-120,"width":250,"height":56},
+		{"id":"ab3a1e6f19e3aab1","type":"file","file":"Linux команды.md","x":-860,"y":-64,"width":400,"height":400},
+		{"id":"13d88a02c698426d","type":"file","file":"Хот клавиши.md","x":-900,"y":-760,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"4645c430b9209985","fromNode":"46f50132e98db1d0","fromSide":"left","toNode":"ab3a1e6f19e3aab1","toSide":"top"},
+		{"id":"7acf721968b6f54c","fromNode":"46f50132e98db1d0","fromSide":"left","toNode":"13d88a02c698426d","toSide":"bottom"}
+	]
+}
