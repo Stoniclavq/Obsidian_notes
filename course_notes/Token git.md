@@ -1,6 +1,0 @@
-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
-
-Classic:
-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
-
-https://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@github.com/Stoniclavq/Obsidian_notes.git
